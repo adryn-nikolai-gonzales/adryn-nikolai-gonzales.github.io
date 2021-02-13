@@ -1,4 +1,4 @@
-# CSCE_315_Lab
+# Personal Website
 Personal website
 
   As of 01/31/2020, this website is just the draft of the final. A lot of my content is missing (About me section, details about projects, service, and qualifications), but so far 
